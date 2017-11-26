@@ -1,0 +1,26 @@
+d:\userfiles\rvasudevan\documents\visual studio 2012\Projects\CLC Admin\CLC Admin\bin\CLC Admin.dll
+d:\userfiles\rvasudevan\documents\visual studio 2012\Projects\CLC Admin\CLC Admin\bin\CLC Admin.pdb
+d:\userfiles\rvasudevan\documents\visual studio 2012\Projects\CLC Admin\CLC Admin\bin\Antlr3.Runtime.dll
+d:\userfiles\rvasudevan\documents\visual studio 2012\Projects\CLC Admin\CLC Admin\bin\EntityFramework.dll
+d:\userfiles\rvasudevan\documents\visual studio 2012\Projects\CLC Admin\CLC Admin\bin\Microsoft.Web.Infrastructure.dll
+d:\userfiles\rvasudevan\documents\visual studio 2012\Projects\CLC Admin\CLC Admin\bin\Newtonsoft.Json.dll
+d:\userfiles\rvasudevan\documents\visual studio 2012\Projects\CLC Admin\CLC Admin\bin\System.Web.Helpers.dll
+d:\userfiles\rvasudevan\documents\visual studio 2012\Projects\CLC Admin\CLC Admin\bin\System.Web.Mvc.dll
+d:\userfiles\rvasudevan\documents\visual studio 2012\Projects\CLC Admin\CLC Admin\bin\System.Web.Optimization.dll
+d:\userfiles\rvasudevan\documents\visual studio 2012\Projects\CLC Admin\CLC Admin\bin\System.Web.Providers.dll
+d:\userfiles\rvasudevan\documents\visual studio 2012\Projects\CLC Admin\CLC Admin\bin\System.Web.Razor.dll
+d:\userfiles\rvasudevan\documents\visual studio 2012\Projects\CLC Admin\CLC Admin\bin\System.Web.WebPages.Deployment.dll
+d:\userfiles\rvasudevan\documents\visual studio 2012\Projects\CLC Admin\CLC Admin\bin\System.Web.WebPages.dll
+d:\userfiles\rvasudevan\documents\visual studio 2012\Projects\CLC Admin\CLC Admin\bin\System.Web.WebPages.Razor.dll
+d:\userfiles\rvasudevan\documents\visual studio 2012\Projects\CLC Admin\CLC Admin\bin\WebGrease.dll
+d:\userfiles\rvasudevan\documents\visual studio 2012\Projects\CLC Admin\CLC Admin\bin\EntityFramework.xml
+d:\userfiles\rvasudevan\documents\visual studio 2012\Projects\CLC Admin\CLC Admin\bin\Newtonsoft.Json.xml
+d:\userfiles\rvasudevan\documents\visual studio 2012\Projects\CLC Admin\CLC Admin\bin\System.Web.Helpers.xml
+d:\userfiles\rvasudevan\documents\visual studio 2012\Projects\CLC Admin\CLC Admin\bin\System.Web.Mvc.xml
+d:\userfiles\rvasudevan\documents\visual studio 2012\Projects\CLC Admin\CLC Admin\bin\System.Web.Razor.xml
+d:\userfiles\rvasudevan\documents\visual studio 2012\Projects\CLC Admin\CLC Admin\bin\System.Web.WebPages.xml
+d:\userfiles\rvasudevan\documents\visual studio 2012\Projects\CLC Admin\CLC Admin\bin\System.Web.WebPages.Deployment.xml
+d:\userfiles\rvasudevan\documents\visual studio 2012\Projects\CLC Admin\CLC Admin\bin\System.Web.WebPages.Razor.xml
+d:\userfiles\rvasudevan\documents\visual studio 2012\Projects\CLC Admin\CLC Admin\obj\Debug\CLC Admin.csprojResolveAssemblyReference.cache
+d:\userfiles\rvasudevan\documents\visual studio 2012\Projects\CLC Admin\CLC Admin\obj\Debug\CLC Admin.dll
+d:\userfiles\rvasudevan\documents\visual studio 2012\Projects\CLC Admin\CLC Admin\obj\Debug\CLC Admin.pdb
